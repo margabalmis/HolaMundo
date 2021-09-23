@@ -18,7 +18,7 @@ namespace HolaMundo
             string cadena;
 
             cadena = NombreTexto.Text;
-            MensajeTextBlock.Text = "Hola " + cadena + "!!!";
+            MensajeTextBlock.Text = "Hola " + cadena + "!!";
 
             MensajeTextBlock.Foreground = Brushes.DarkCyan;
         }
